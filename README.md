@@ -4,14 +4,7 @@
 . 💻 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 . 🔍 Sempre em busca de evolução e desenvolvimento.
 
-##
-
-            
-
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-                                        
+##                                      
           
 Melhores linguagens/tecnologias
 <div style="display: inline_block"><br>
